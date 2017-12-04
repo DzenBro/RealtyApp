@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">RealtyApp</string>
+    <string name="clients">Clients</string>
+    <string name="objects">Objects</string>
+    <string name="stats">Stats</string>
+    <string name="deals">Deals</string>
+    <string name="clients_name_but">Клиенты</string>
+    <string name="objects_name_but">Объекты</string>
+    <string name="stats_name_but">Статистика</string>
+    <string name="deals_name_but">Сделки</string>
 </resources>
